@@ -3,11 +3,11 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
 })
-export class AppComponent {
-}
+export class AppComponent {}
 
+// try if I can commit
 
 /*
 Copyright Google LLC. All Rights Reserved.
